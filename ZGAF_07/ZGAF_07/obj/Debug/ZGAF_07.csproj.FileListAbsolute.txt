@@ -1,0 +1,17 @@
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\bin\Debug\ZGAF_07.exe.config
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\bin\Debug\ZGAF_07.exe
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\bin\Debug\ZGAF_07.pdb
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\ZGAF_07.csprojAssemblyReference.cache
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\Gui\VentanaCiudadano.g.cs
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\MainWindow.g.cs
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\App.g.cs
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\ZGAF_07_MarkupCompile.cache
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\ZGAF_07_MarkupCompile.lref
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\Gui\VentanaCiudadano.baml
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\MainWindow.baml
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\ZGAF_07.g.resources
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\ZGAF_07.Properties.Resources.resources
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\ZGAF_07.csproj.GenerateResource.cache
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\ZGAF_07.csproj.CoreCompileInputs.cache
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\ZGAF_07.exe
+Z:\Documentos\2S ISSC\POEV\ZGAF_07\ZGAF_07\obj\Debug\ZGAF_07.pdb

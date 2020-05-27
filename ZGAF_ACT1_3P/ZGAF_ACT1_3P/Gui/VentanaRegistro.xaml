@@ -1,0 +1,19 @@
+﻿<Window x:Class="ZGAF_ACT1_3P.Gui.VentanaRegistro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZGAF_ACT1_3P.Gui"
+        mc:Ignorable="d"
+        Title="VentanaRegistro" Height="300" Width="500">
+    <Grid>
+        <TextBox x:Name="txtNombreUsuario" HorizontalAlignment="Left" Height="24" Margin="303,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="174"/>
+        <PasswordBox x:Name="txtContraseniaUsuario" HorizontalAlignment="Left" Height="24" Margin="303,128,0,0"  VerticalAlignment="Top" Width="174"/>
+        <Label Content="Usuario" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="153,67,0,0" Height="24" Width="128"/>
+        <Label Content="Contrasenia" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="153,128,0,0" Height="24" Width="128"/>
+        <Label Content="Registro Usuario Chido" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="33" Width="234" FontSize="20"/>
+        <Button x:Name="btnRegistrar" Content="Registrar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="402,178,0,0" Click="BtnRegistrar_Click"/>
+        <Button x:Name="btnVolver" Content="Volver" HorizontalAlignment="Left" Margin="10,241,0,0" VerticalAlignment="Top" Width="75" Click="BtnVolver_Click"/>
+
+    </Grid>
+</Window>

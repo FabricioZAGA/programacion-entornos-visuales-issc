@@ -1,0 +1,90 @@
+﻿<Window x:Class="Autos.Gui.Vehiculos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Autos.Gui"
+        mc:Ignorable="d"
+        Title="Vehiculos" Height="600" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition />
+
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="50"/>
+
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Label Content="Catalogo de Autos"/>
+                </Border>
+                <Border Grid.Column="2">
+                    <Image/>
+                </Border>
+                <Button x:Name="btnBack" Content="GoBack" Grid.Column="1" HorizontalAlignment="Left" Margin="657,10,0,0" VerticalAlignment="Top" Width="75" Height="38" Grid.ColumnSpan="2" Click="BtnBack_Click"/>
+
+            </Grid>
+        </Border>
+        <Border Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="400"/>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0">
+                    <Canvas>
+                        <Label Content="Marca" Canvas.Left="48" Canvas.Top="10"/>
+                        <ComboBox x:Name="cmbMarca" Canvas.Left="58" Canvas.Top="40" Width="208" SelectionChanged="CmbMarca_SelectionChanged" />
+                        <Label Content="Modelo" Canvas.Left="48" Canvas.Top="82"/>
+                        <ComboBox x:Name="cmbModelo" Canvas.Left="60" Canvas.Top="112" Width="206"/>
+                    </Canvas>
+                </Border>
+
+                <Border Grid.Column="1">
+                    <Canvas>
+                        <Label Content="Numero de Serie" Canvas.Left="10" Canvas.Top="10" Width="124"/>
+                        <Label Content="Tipo" Canvas.Left="10" Canvas.Top="40" Width="124" Height="26"/>
+                        <Label Content="Color" Canvas.Left="10" Canvas.Top="71" Width="124" Height="26"/>
+                        <Label Content="Versión" Canvas.Left="10" Canvas.Top="103" Width="124" Height="25"/>
+                        <Label Content="Precio" Canvas.Left="10" Canvas.Top="136" Width="124" Height="26"/>
+                        <TextBox x:Name="txtNumSerie" Height="23" Canvas.Left="138" TextWrapping="Wrap" Canvas.Top="10" Width="235"/>
+                        <TextBox x:Name="txtTipo" Height="23" Canvas.Left="138" TextWrapping="Wrap" Canvas.Top="40" Width="235"/>
+                        <TextBox x:Name="txtColor" Height="23" Canvas.Left="138" TextWrapping="Wrap" Canvas.Top="71" Width="235"/>
+                        <TextBox x:Name="txtVersion" Height="23" Canvas.Left="138" TextWrapping="Wrap" Canvas.Top="103" Width="235"/>
+                        <TextBox Height="23" x:Name="txtPrecio" Canvas.Left="138" TextWrapping="Wrap" Canvas.Top="139" Width="235"/>
+
+                    </Canvas>
+                </Border>
+            </Grid>
+
+        </Border>
+        <Border Grid.Row="2">
+            <DockPanel HorizontalAlignment="center" Height="50" Margin="321,0" VerticalAlignment="Bottom">
+                <Button x:Name="btnAddVehiculo" Width="50" Content="Agregar" Click="BtnAddVehiculo_Click" />
+                <Button x:Name="btnFindVehiculo" Width="50" Content="Marca" Click="BtnFindVehiculo_Click"/>
+                <Button x:Name="BtnFindModeloVehiculo" Width="50" Content="Modelo"  Click="BtnFindModeloVehiculo_Click"/>
+            </DockPanel>
+        </Border>
+        <Border Grid.Row="3" HorizontalAlignment="Center" Margin="74,0,75,0" Width="643">
+            <DataGrid x:Name="dtgVehiculos" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Codigo" Binding="{Binding _Categoria.Codigo}"/>
+                    <DataGridTextColumn Header="Marca" Binding="{Binding _Categoria.Marca}"/>
+                    <DataGridTextColumn Header="Modelo" Binding="{Binding _Categoria.Modelo}"/>
+                    <DataGridTextColumn Header="NumSerie" Binding="{Binding NumSerie}"/>
+                    <DataGridTextColumn Header="Tipo" Binding="{Binding Tipo}"/>
+                    <DataGridTextColumn Header="Color" Binding="{Binding Color}"/>
+                    <DataGridTextColumn Header="Version" Binding="{Binding Version}"/>
+                    <DataGridTextColumn Header="Precio" Binding="{Binding Precio}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+    </Grid>
+</Window>

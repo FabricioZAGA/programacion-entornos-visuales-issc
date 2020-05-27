@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="ZGAF_ACT2_3P.Gui.UcCategoria"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ZGAF_ACT2_3P.Gui"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="600">
+    <Grid>
+        <Canvas>
+            <DataGrid x:Name="dtgCategoria" Height="142" Width="600" Canvas.Top="74" SelectionChanged="DtgCategoria_SelectionChanged"/>
+            <TextBox x:Name="txtIdCategoria" TextWrapping="Wrap" Text="0" Canvas.Left="128" Canvas.Top="352" Width="111" IsReadOnly="True"/>
+            <Label Content="IdCategoria" Canvas.Left="39" Canvas.Top="352"/>
+            <TextBox x:Name="txtProovedores" TextWrapping="Wrap" Canvas.Left="128" Canvas.Top="294" Width="111"/>
+            <Label  Content="Provedores" Canvas.Left="39" Canvas.Top="290"/>
+            <Label Content="Categorías" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="18" Canvas.Left="170" Canvas.Top="10"/>
+            <Button x:Name="btnDelete" Content="Eliminar" Canvas.Left="515" Canvas.Top="370" Width="75" Click="BtnDelete_Click"/>
+            <Button x:Name="btnAgregar" Content="Agregar" Canvas.Left="35" Canvas.Top="225" Width="75" Click="BtnAgregar_Click"/>
+            <Button x:Name="btnUpdate" Content="Modificar" Canvas.Left="170" Canvas.Top="225" Width="75" Click="BtnUpdate_Click" />
+            <Button x:Name="btnActualizar_Copy" Content="Actualizar" Canvas.Left="515" Canvas.Top="10" Width="75" Click="BtnActualizar_Copy_Click" />
+        </Canvas>
+
+    </Grid>
+</UserControl>

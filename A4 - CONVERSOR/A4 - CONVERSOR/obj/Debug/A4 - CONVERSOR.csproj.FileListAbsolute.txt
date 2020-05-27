@@ -1,0 +1,7 @@
+Z:\Documentos\2S ISSC\POEV\A4 - CONVERSOR\A4 - CONVERSOR\bin\Debug\A4 - CONVERSOR.exe.config
+Z:\Documentos\2S ISSC\POEV\A4 - CONVERSOR\A4 - CONVERSOR\bin\Debug\A4 - CONVERSOR.exe
+Z:\Documentos\2S ISSC\POEV\A4 - CONVERSOR\A4 - CONVERSOR\bin\Debug\A4 - CONVERSOR.pdb
+Z:\Documentos\2S ISSC\POEV\A4 - CONVERSOR\A4 - CONVERSOR\obj\Debug\A4 - CONVERSOR.csprojAssemblyReference.cache
+Z:\Documentos\2S ISSC\POEV\A4 - CONVERSOR\A4 - CONVERSOR\obj\Debug\A4 - CONVERSOR.csproj.CoreCompileInputs.cache
+Z:\Documentos\2S ISSC\POEV\A4 - CONVERSOR\A4 - CONVERSOR\obj\Debug\A4 - CONVERSOR.exe
+Z:\Documentos\2S ISSC\POEV\A4 - CONVERSOR\A4 - CONVERSOR\obj\Debug\A4 - CONVERSOR.pdb

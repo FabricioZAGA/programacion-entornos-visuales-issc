@@ -1,0 +1,63 @@
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Gui\Almacen.g.cs
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Gui\Clientes.g.cs
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Gui\Ventas.g.cs
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\MainWindow.g.cs
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\App.g.cs
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Parcial2_MarkupCompile.cache
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Parcial2_MarkupCompile.lref
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Gui\Almacen.baml
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Gui\Clientes.baml
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Gui\Ventas.baml
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\MainWindow.baml
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Parcial2.g.resources
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\Carmen Ruiz\Documents\Visual Studio 2017\Projects\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Gui\Almacen.g.cs
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Gui\Clientes.g.cs
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Gui\Ventas.g.cs
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\MainWindow.g.cs
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\App.g.cs
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2_MarkupCompile.cache
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2_MarkupCompile.lref
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Gui\Almacen.baml
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Gui\Clientes.baml
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Gui\Ventas.baml
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\MainWindow.baml
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.g.resources
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\fabri\Desktop\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Gui\Almacen.g.cs
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Gui\Clientes.g.cs
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Gui\Ventas.g.cs
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\MainWindow.g.cs
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\App.g.cs
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2_MarkupCompile.cache
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2_MarkupCompile.lref
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Gui\Almacen.baml
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Gui\Clientes.baml
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Gui\Ventas.baml
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\MainWindow.baml
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.g.resources
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+D:\Documentos\2S ISSC\POEV\Examen_2P_FabricioZacarías67664\Parcial2\Parcial2\obj\Debug\Parcial2.pdb

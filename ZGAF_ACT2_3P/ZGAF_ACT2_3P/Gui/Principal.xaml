@@ -1,0 +1,40 @@
+﻿<Window x:Class="ZGAF_ACT2_3P.Gui.Principal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZGAF_ACT2_3P.Gui"
+        mc:Ignorable="d"
+        Title="Principal" Height="600" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="450"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="600"/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Row="1" Grid.Column="0">
+            <Canvas>
+                <Button x:Name="btnCompras" Content="Categorias" Canvas.Left="10" Canvas.Top="10" Width="172" Height="32" Click="BtnCompras_Click"/>
+                <Button x:Name="btnEmpleados" Content="Empleados" Canvas.Left="10" Canvas.Top="47" Width="172" Height="32" Click="BtnEmpleados_Click" />
+                <Button x:Name="btnMedicamentos" Content="Medicamentos" Canvas.Left="10" Canvas.Top="84" Width="172" Height="32" Click="BtnMedicamentos_Click"/>
+                <Button x:Name="btnUsuarios" Content="Usuarios" Canvas.Left="10" Canvas.Top="121" Width="172" Height="32" Click="BtnUsuarios_Click"/>
+            </Canvas>
+        </Border>
+        <Border Grid.Row="1" Grid.Column="1">
+            <Grid x:Name="grdPrincipal" ></Grid>
+        </Border>
+        <Border Grid.Row="0" Grid.Column="0">
+            <Image Source="/ZGAF_ACT2_3P;component/Images/farmaciaLogo.jpg" ></Image>
+        </Border>
+        <Border Grid.Row="0" Grid.Column="1">
+            <Canvas>
+                <Label Content="Sistema Integrado de Farmacia" Canvas.Left="145" Canvas.Top="22" Height="47" Width="322" FontSize="22"/>
+
+            </Canvas>
+
+        </Border>
+    </Grid>
+</Window>

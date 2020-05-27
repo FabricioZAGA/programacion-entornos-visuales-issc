@@ -1,0 +1,34 @@
+﻿<Window x:Class="ZGAF_01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZGAF_01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition />
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="340*"/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="0" Grid.Row="0"  VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Image Source="Images/logo.png" Width="45"/>
+        </Border>
+        <Border Grid.Column="1" Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Center">
+            <Label Content="Autor: Fabricio Zacarías Guzmán"/>
+        </Border>
+        <Border Grid.Column="1" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Center" >
+            <Button x:Name="btnOptionAdd" Click="BtnOptionAdd_Click">
+                <DockPanel>
+                    <Label Content="Agregar Empleado"/>
+                    <Image Source="Images/persona02.png" Height="30" Width="45"/>
+                </DockPanel>
+            </Button>
+        </Border>
+    </Grid>
+</Window>

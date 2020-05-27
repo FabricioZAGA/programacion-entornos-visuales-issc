@@ -1,0 +1,18 @@
+﻿<Window x:Class="ZGAF_ACT2_3P.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZGAF_ACT2_3P"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtNombreUsuario" HorizontalAlignment="Left" Height="37" Margin="365,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="273" FontSize="18"/>
+        <PasswordBox x:Name="txtContraseniaUsuario" HorizontalAlignment="Left" Height="38" Margin="365,236,0,0"  VerticalAlignment="Top" Width="273" FontSize="18"/>
+        <Label Content="Usuario" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="130,141,0,0" Height="37" Width="200" FontSize="20"/>
+        <Label Content="Contrasenia" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="130,236,0,0" Height="38" Width="200" FontSize="20"/>
+        <Label Content="Inicio de Sesión Chido" HorizontalAlignment="Left" Margin="185,44,0,0" VerticalAlignment="Top" Height="55" Width="393" FontSize="36"/>
+        <Button x:Name="btnLogIn" Content="LogIn" HorizontalAlignment="Left" VerticalAlignment="Top" Width="118" Margin="520,323,0,0" Click="BtnLogIn_Click" Height="31" FontSize="18"/>
+
+    </Grid>
+</Window>

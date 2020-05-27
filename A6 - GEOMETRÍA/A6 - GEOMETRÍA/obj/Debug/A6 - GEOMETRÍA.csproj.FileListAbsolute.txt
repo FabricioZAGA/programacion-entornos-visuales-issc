@@ -1,0 +1,7 @@
+Z:\Documentos\2S ISSC\POEV\A6 - GEOMETRÍA\A6 - GEOMETRÍA\bin\Debug\A6 - GEOMETRÍA.exe.config
+Z:\Documentos\2S ISSC\POEV\A6 - GEOMETRÍA\A6 - GEOMETRÍA\bin\Debug\A6 - GEOMETRÍA.exe
+Z:\Documentos\2S ISSC\POEV\A6 - GEOMETRÍA\A6 - GEOMETRÍA\bin\Debug\A6 - GEOMETRÍA.pdb
+Z:\Documentos\2S ISSC\POEV\A6 - GEOMETRÍA\A6 - GEOMETRÍA\obj\Debug\A6 - GEOMETRÍA.csprojAssemblyReference.cache
+Z:\Documentos\2S ISSC\POEV\A6 - GEOMETRÍA\A6 - GEOMETRÍA\obj\Debug\A6 - GEOMETRÍA.csproj.CoreCompileInputs.cache
+Z:\Documentos\2S ISSC\POEV\A6 - GEOMETRÍA\A6 - GEOMETRÍA\obj\Debug\A6 - GEOMETRÍA.exe
+Z:\Documentos\2S ISSC\POEV\A6 - GEOMETRÍA\A6 - GEOMETRÍA\obj\Debug\A6 - GEOMETRÍA.pdb

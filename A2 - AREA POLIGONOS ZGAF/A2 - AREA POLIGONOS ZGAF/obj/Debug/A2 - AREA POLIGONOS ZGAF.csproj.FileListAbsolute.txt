@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\A2 - AREA POLIGONOS ZGAF\A2 - AREA POLIGONOS ZGAF\obj\Debug\A2 - AREA POLIGONOS ZGAF.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\A2 - AREA POLIGONOS ZGAF\A2 - AREA POLIGONOS ZGAF\obj\Debug\A2 - AREA POLIGONOS ZGAF.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\A2 - AREA POLIGONOS ZGAF\A2 - AREA POLIGONOS ZGAF\bin\Debug\A2 - AREA POLIGONOS ZGAF.exe.config
+C:\Users\danie\source\repos\A2 - AREA POLIGONOS ZGAF\A2 - AREA POLIGONOS ZGAF\bin\Debug\A2 - AREA POLIGONOS ZGAF.exe
+C:\Users\danie\source\repos\A2 - AREA POLIGONOS ZGAF\A2 - AREA POLIGONOS ZGAF\bin\Debug\A2 - AREA POLIGONOS ZGAF.pdb
+C:\Users\danie\source\repos\A2 - AREA POLIGONOS ZGAF\A2 - AREA POLIGONOS ZGAF\obj\Debug\A2 - AREA POLIGONOS ZGAF.exe
+C:\Users\danie\source\repos\A2 - AREA POLIGONOS ZGAF\A2 - AREA POLIGONOS ZGAF\obj\Debug\A2 - AREA POLIGONOS ZGAF.pdb

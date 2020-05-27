@@ -1,0 +1,15 @@
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\bin\Debug\ZGAF_EX_3P.exe.config
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\bin\Debug\ZGAF_EX_3P.exe
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\bin\Debug\ZGAF_EX_3P.pdb
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\obj\Debug\ZGAF_EX_3P.csprojAssemblyReference.cache
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\obj\Debug\MainWindow.g.cs
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\obj\Debug\App.g.cs
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\obj\Debug\ZGAF_EX_3P_MarkupCompile.cache
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\obj\Debug\ZGAF_EX_3P_MarkupCompile.lref
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\obj\Debug\MainWindow.baml
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\obj\Debug\ZGAF_EX_3P.g.resources
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\obj\Debug\ZGAF_EX_3P.Properties.Resources.resources
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\obj\Debug\ZGAF_EX_3P.csproj.GenerateResource.cache
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\obj\Debug\ZGAF_EX_3P.csproj.CoreCompileInputs.cache
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\obj\Debug\ZGAF_EX_3P.exe
+D:\Documentos\2S ISSC\POEV\ZGAF_EX_3P\ZGAF_EX_3P\obj\Debug\ZGAF_EX_3P.pdb

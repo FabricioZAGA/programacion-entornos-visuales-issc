@@ -1,0 +1,7 @@
+Z:\Documentos\2S ISSC\POEV\A7 - ManejoArreglos\A7 - ManejoArreglos\obj\Debug\A7 - ManejoArreglos.csprojAssemblyReference.cache
+Z:\Documentos\2S ISSC\POEV\A7 - ManejoArreglos\A7 - ManejoArreglos\obj\Debug\A7 - ManejoArreglos.csproj.CoreCompileInputs.cache
+Z:\Documentos\2S ISSC\POEV\A7 - ManejoArreglos\A7 - ManejoArreglos\bin\Debug\A7 - ManejoArreglos.exe.config
+Z:\Documentos\2S ISSC\POEV\A7 - ManejoArreglos\A7 - ManejoArreglos\bin\Debug\A7 - ManejoArreglos.exe
+Z:\Documentos\2S ISSC\POEV\A7 - ManejoArreglos\A7 - ManejoArreglos\bin\Debug\A7 - ManejoArreglos.pdb
+Z:\Documentos\2S ISSC\POEV\A7 - ManejoArreglos\A7 - ManejoArreglos\obj\Debug\A7 - ManejoArreglos.exe
+Z:\Documentos\2S ISSC\POEV\A7 - ManejoArreglos\A7 - ManejoArreglos\obj\Debug\A7 - ManejoArreglos.pdb
